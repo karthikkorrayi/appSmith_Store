@@ -1,0 +1,59 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 29,
+  "boxShadow": "none",
+  "defaultOptionValue": "Government",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "ijochspui7",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelText": "Category",
+  "labelTextSize": "0.875rem",
+  "labelWidth": "20",
+  "leftColumn": 4,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 32,
+  "mobileLeftColumn": 4,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 25,
+  "needsErrorInfo": false,
+  "optionLabel": "name",
+  "optionValue": "code",
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"Government\",\n    \"code\": \"Government\"\n  },\n  {\n    \"name\": \"Private\",\n    \"code\": \"Private\"\n  }\n]",
+  "topRow": 25,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "40eolvhuu2",
+  "widgetName": "Category"
+}

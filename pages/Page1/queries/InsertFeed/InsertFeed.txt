@@ -1,0 +1,9 @@
+{
+  "title": "{{InputTitle.text}}",
+  "description": "{{Description.text}}",
+  "department": "{{Department.text}}",
+  "category": "{{Category.selectedOptionValue}}",
+  "location": "{{Location.text}}",
+  "apply_url": "{{ApplyURL.text}}",
+  "logo_url": "{{LogoURL.text}}"
+}
