@@ -1,0 +1,56 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "{{appsmith.theme.colors.backgroundColor}}",
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 21,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "backgroundColor"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bu553uglar",
+  "leftColumn": 2,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 21,
+  "mobileLeftColumn": 3,
+  "mobileRightColumn": 19,
+  "mobileTopRow": 17,
+  "needsErrorInfo": false,
+  "originalBottomRow": 21,
+  "originalTopRow": 17,
+  "overflow": "NONE",
+  "parentColumnSpace": 6.84375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 19,
+  "shouldTruncate": false,
+  "text": "Hello Admin",
+  "textAlign": "LEFT",
+  "textColor": "#3b82f6",
+  "topRow": 17,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "2eotnujv7b",
+  "widgetName": "Hello_Admin"
+}
