@@ -31,7 +31,7 @@
   "mobileRightColumn": 62,
   "mobileTopRow": 45,
   "needsErrorInfo": false,
-  "onClick": "{{InsertFeed.run();\nshowAlert('Submitted', 'success');\nclearStore()}}",
+  "onClick": "{{InsertFeed.run();\nshowAlert('Submitted', 'success');\nresetWidget(\"InputTitle\", true);}}",
   "originalBottomRow": 68,
   "originalTopRow": 64,
   "parentColumnSpace": 6.84375,
